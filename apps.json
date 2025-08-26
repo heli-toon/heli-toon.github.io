@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Verba",
+    "status": "completed",
+    "icon": "icons/verbaicon.png",
+    "size": "0 MB",
+    "description": "Verba is an authentic pocket dictionary which provides accurate and up-to-date word definitions. Compact, precise & reliable. ",
+    "downloads": {
+      "globe2": ["https://verba.netlify.app/"],
+      "github": ["https://github.com/heli-toon/verba/"]
+    }
+  },
+  {
+    "title": "Periodic Table",
+    "status": "incomplete",
+    "icon": "icons/periodictable.png",
+    "size": "0 MB",
+    "description": "Interactive Periodic Table of Elements app. Explore elements details, history and atomic structures in a user-friendly interface.",
+    "downloads": {
+      "globe2": ["/"],
+      "github": ["https://github.com/heli-toon/periodictable/"]
+    }
+  },
+  {
+    "title": "SendMe",
+    "status": "incomplete",
+    "icon": "icons/sendmeicon.png",
+    "size": "0 MB",
+    "description": "SendMe, a platform that connects people who need tasks done with people who can do them. It's a simple, easy-to-use solution that makes it easy to find the person for the job. ",
+    "downloads": {
+      "android2": ["googleplay", "apk"],
+      "apple": ["dmg", "pkg"],
+      "globe2": ["https://sendmeweb.netlify.app/"]
+    }
+  },
+  {
+    "title": "LBSHS LMS",
+    "status": "completed",
+    "icon": "icons/LBSHSLMS.ico",
+    "size": "22.0 MB",
+    "description": "A comprehensive Library Management System which allows library administrators to manage the library resources with impecable ease.",
+    "downloads": {
+      "windows": ["https://github.com/heli-toon/LBSHS-LMS/releases/download/LBSHSLMS_Setup_v.1.3.0-x64.exe/LBSHSLMS_Setup_v.1.3.0-x64.exe/"],
+      "ubuntu": ["deb"],
+      "github": ["https://github.com/heli-toon/LBSHS-LMS/"]
+    }
+  },
+  {
+    "title": "TypeRush",
+    "status": "completed",
+    "icon": "icons/typerush.ico",
+    "size": "13.1 MB",
+    "description": "TypeRush is an engaging typing game that challenges players to improve their typing speed and accuracy through fun and interactive gameplay.",
+    "downloads": {
+      "windows": ["https://github.com/heli-toon/typerush/releases/download/TypeRush-v.0.0.2/TypeRush_Setup-v.0.0.2.exe"],
+      "github": ["https://github.com/heli-toon/typerush/"]
+    }
+  },
+  {
+    "title": "QRGenie",
+    "status": "completed",
+    "icon": "",
+    "size": "0 MB",
+    "description": "QRGenie is a robust API for generating dynamic QR codes with ease. It is ideal for industries like marketing, payments and secure authentication.",
+    "downloads": {
+      "link-45deg": ["https://qrcode-api-six.vercel.app/"],
+      "github": ["https://github.com/heli-toon/qrcode-api/"]
+    }
+  },
+  {
+    "title": "Pulsenet.io",
+    "status": "incomplete",
+    "icon": "icons/pulsenetio.png",
+    "size": "0 MB",
+    "description": "A simple social media app for authentic connections. Designed to facilitate to meaning to meaningful interactions and community building.",
+    "downloads": {
+      "github": ["https://github.com/heli-toon/pulsenetio/"]
+    }
+  },
+  {
+    "title": "Smart Lighting Automation",
+    "status": "incomplete",
+    "icon": "icons/arduinoproj.jpg",
+    "size": "20 B",
+    "description": "Ardunio based system that automatically controls lights ensuring efficiency & seamless ambience of control. Experience a blend of tech and convience.",
+    "downloads": {
+      "github": ["https://github.com/heli-toon/lights-automation/"]
+    }
+  }
+]

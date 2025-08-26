@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Labone SHS Home Economics",
+    "status": "completed",
+    "icon": "icons/labhome.png",
+    "description": "This project was for the Labone SHS ICT Week Celebration 2023. With the theme 'Digital Inclusiveness, the way forward', the project was made to close the gap in education of Home Economics through ICT.",
+    "downloads": {
+      "globe2": ["https://labhome.netlify.app/"],
+      "github": ["https://github.com/heli-toon/IT-Week-Project/"]
+    }
+  },
+  {
+    "title": "Gace Core",
+    "status": "completed",
+    "icon": "icons/gacecore.webp",
+    "description": "Developed a landing page website for a game centre management system software, showcasing it's features and hosting it's downloads and documentation.",
+    "downloads": {
+      "globe2": ["https://gamecentremanagementsystem.web.app/"]
+    }
+  },
+  {
+    "title": "Mycocostuff",
+    "status": "incomplete",
+    "icon": "icons/mycocostuff.png",
+    "description": "Created a landing page & e-commerce website for a brand to showcase & sell exotic handmade coconut products.",
+    "downloads": {
+      "globe2": ["https://mycocostuff.netlify.app/"]
+    }
+  },
+  {
+    "title": "Jay's Shoe Care",
+    "status": "completed",
+    "icon": "icons/jayshoecare.png",
+    "description": "Crafted a brand landing page to promote a high-end shoe care sneaker cleaning, customization and restoration service.",
+    "downloads": {
+      "globe2": ["https://jayshoecare.netlify.app/"]
+    }
+  }
+]
